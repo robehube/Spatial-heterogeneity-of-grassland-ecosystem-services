@@ -4,7 +4,7 @@ R code for the calculation of spatial explicit values of grassland ecosystem ser
 We here provide the R-code for reproducing the model results in the manuscript "Spatial heterogeneity and the economic value of grassland ecosystem services".
 The code allows to: i) randomly distribute spatially explicit grassland use ii) calculate the biophysical estimates of ecosystem services iii) estimate the economic value of the grassland ecosystem services.
 
-We here use sample data for illustrative purpose. Full data is available here:
+We here use sample data for illustrative purpose (data_allParcels_new.csv). Full data is available here:
 
 Biophyisical data: DOI:10.3929/ethz-b-000386298
 
