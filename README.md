@@ -1,4 +1,4 @@
-# Spatial-heterogeneity-of-grassland-ecosystem-services
+# ValueGrass: Spatial heterogeneity of grassland ecosystem services
 R code for the calculation of spatial explicit values of grassland ecosystem services
 
 We here provide the R-code for reproducing the model results in the manuscript "Spatial heterogeneity and the economic value of grassland ecosystem services".
