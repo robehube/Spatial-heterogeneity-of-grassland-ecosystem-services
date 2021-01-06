@@ -5,7 +5,6 @@ date: "May 2020"
 output: html_document
 ---
 
-
 ```{r message=FALSE, warning=FALSE}
 #install packages
 library(intrval)
@@ -17,7 +16,7 @@ library(data.table)
 ```
 ### Farm Distribution
 ```{r message=FALSE, warning=FALSE}
-Data = read.csv("Data_allParcels_new.csv", header=TRUE, sep=";")
+Data = read.csv("Data_allParcels_new.csv", header=TRUE, sep=";") --> need to be specified to data location.
 IDParcel <- Data[1]
 
 ############################################################################################################################
